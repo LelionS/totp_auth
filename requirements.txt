@@ -1,3 +1,8 @@
+# Some few additions:
+# If you get "ModuleNotFoundError" for django-otp or qrcode, install them with:
+# python -m pip install django-otp qrcode
+
+
 akismet==24.11.0
 amqp==5.3.1
 anyio==4.9.0
